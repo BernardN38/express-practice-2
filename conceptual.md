@@ -32,7 +32,7 @@ Answer the following questions below:
   ensures data fits the format expected
 
 - What are some ways to decide which code to test?
-
+  functions, routes, end to end testing
 
 - What does `RETURNING` do in SQL? When would you use it?
   allows you to select which data is returned after the SQL query
